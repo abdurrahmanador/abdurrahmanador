@@ -1,4 +1,4 @@
-![logo](https://github.com/abdurrahmanador/abdurrahmanador/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png))]
+![logo](https://github.com/abdurrahmanador/abdurrahmanador/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi, I'm Abdur Rahman</h1>
 <h3 align="center">Mobile App Developer</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
