@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android,Kotlin,Dart,Flutter**
+- 💬 Ask me about **Android,Kotlin,Dart,Flutter,Ethical Hacking**
 
 - 📫 How to reach me **abiabdullahinshaalloh@gmail.com**
 
