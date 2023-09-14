@@ -4,11 +4,11 @@
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmanador&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmanador" /> </p>
 
-- 🔭 I’m currently working on [Respitory](https://github.com/abdurrahmanador/RespitoryFinal)
+- 🔭 I’m currently working on [Crafty Bay](https://github.com/abdurrahmanador/ecommerce_appl)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android,Kotlin,Dart,Flutter,Ethical Hacking**
+- 💬 Ask me about **Dart,Flutter,Android,Kotlin**
 
 - 📫 How to reach me **abiabdullahinshaalloh@gmail.com**
 
