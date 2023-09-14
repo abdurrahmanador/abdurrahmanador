@@ -1,6 +1,6 @@
-![logo](https://github.com/abdurrahmanador/abdurrahmanador/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi, I'm Abdur Rahman</h1>
-<h3 align="center">Mobile App Developer</h3>
+<h3 align="center">A learner...</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmanador&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmanador" /> </p>
 
