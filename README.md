@@ -6,8 +6,6 @@
 
 - 🔭Jr. App Developer at <a href="https://mpairtech.com/">mPair Technologies Ltd.
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Dart,Flutter,Android,Kotlin**
 
 - 📫 How to reach me **abiabdullahinshaalloh@gmail.com**
